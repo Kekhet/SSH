@@ -1,0 +1,9 @@
+{
+ "local_folder": "./ssh_folder",
+ "remote_folder": "./sshdir",
+ "server_address": "sendzimir.metal.agh.edu.pl",
+ "port": 22,
+ "username": "jwenda",
+ "mode": "add_non_existing",
+ "ignore": ["bmp"]
+}
